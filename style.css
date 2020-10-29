@@ -1,0 +1,26 @@
+h1 {text-align: center;}
+
+#red {color: red;}
+
+#blue {color: blue;}
+
+#green {color: green}
+
+#big {font-size: larger;}
+
+#tiny {font-size: smaller;}
+
+#center {text-align: center;}
+
+#bold {font-weight: bold;}
+
+#font {font-family: "Courier New", Courier, monospace;}
+
+#mul {font-weight: bold;font-size: larger;color: orange;}
+
+div #styledfont {text-decoration: midnightblue; text-decoration: underline;}
+
+#styledImage {border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(border.png) 50 round;
+  }
